@@ -1,0 +1,64 @@
+name: Firefly
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  video_player: ^0.10.0
+  starflut: ^0.6.0
+  flutter_redux: ^0.5.3 
+  redux: ^3.0.0
+  http: any
+  beautifulsoup: ^0.0.1
+  webview_flutter: 0.3.0
+  flutter_webview_plugin: ^0.3.10+1
+  permission_handler: ^4.2.0+hotfix.3
+  event_bus: ^1.1.1
+  mobx: any
+  flutter_mobx: ^0.3.4+1
+  provider: ^3.2.0
+  flutter_icons: ^1.0.0+1
+  cupertino_icons: ^0.1.3
+  cached_network_image: ^2.0.0
+  uuid: ^2.0.4
+  path_provider: ^1.6.1
+  page_transition: ^1.1.5
+  draggable_scrollbar: ^0.0.4
+  audio_service: ^0.6.2
+  just_audio: ^0.1.0
+  flutter_svg: ^0.17.2
+  ansicolor: ^1.0.2
+  applovin: ^1.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner:
+  flutter_launcher_icons: "^0.7.3"
+  mobx_codegen: ^0.3.10+1
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/launch.png"
+  adaptive_icon_background: "#ffffff"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - starfiles/
+    - assets/
+    - assets/tiles/
+  fonts:
+    - family: Lato
+      fonts:
+        - asset: fonts/Lato/Lato-Regular.ttf
+    - family: Circular
+      fonts:
+        - asset: fonts/Circular/CircularStd-Medium.ttf
+module:
+  androidX: true
