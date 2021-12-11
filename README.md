@@ -16,7 +16,7 @@
   songs and also uses this information to find the songs
   on youtube.
   It supports online and offline streaming and already heard
-  songs get cached automatically. Also it supports ff-screen
+  songs get cached automatically. Also it supports off-screen
   playback. Under the hood it uses python to download youtube 
   videos and to convert it to mp3.
   Download and streaming currently broken due to youtubes
