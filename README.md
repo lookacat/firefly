@@ -7,15 +7,7 @@
 <p>
 <br/>
 <br/>
-<p align="center">
-   <a style="font-size: 29px">Screenshots</a>
-<p>
-<p align="center">
-  <img width="400" src="1.png" />
-</p>
-<br/>
-<br/>
-<p align="center">
+  <p align="center">
    <a style="font-size: 29px">About/Status</a>
 <p>
 <p align="center">
@@ -30,4 +22,14 @@
   Download and streaming currently broken due to youtubes
   ongoing effort to block downloader (and outdated libs) ❌
 </p>
+<br/>
+<br/>
+<p align="center">
+   <a style="font-size: 29px">Screenshots</a>
+<p>
+<p align="center">
+  <img width="400" src="1.png" />
+</p>
+<br/>
+<br/>
 
