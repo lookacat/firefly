@@ -18,9 +18,9 @@
   It supports online and offline streaming and already heard
   songs get cached automatically. Also it supports off-screen
   playback. Under the hood it uses python to download youtube 
-  videos and to convert it to mp3.
-  Download and streaming currently broken due to youtubes
-  ongoing effort to block downloader (and outdated libs) ❌
+  videos and to convert them to mp3.
+  Download and streaming are currently broken due to youtubes
+  ongoing effort to block downloaders (and outdated libs) ❌
 </p>
 <br/>
 <br/>
